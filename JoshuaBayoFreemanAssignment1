@@ -1,0 +1,52 @@
+1.
+Programming
+This is giving a computer specific step by step instructions on how to do something in the way you want without mistakes.
+This is like writing down a recipe by a senior chef for junior chefs to follow such that they make a specific dish in the same exact way with the same outcome.
+
+2.
+The Relation Between CPU, RAM, and Hard Disk
+CPU is like a chef.
+RAM is like a kitchen counter.
+Hard Disk is like a store
+•
+Relationship: To make dinner, the Chef (CPU) walks to the Storehouse (Hard Disk), grabs a bag of onions, brings it to the Kitchen Counter (RAM) to chop it up, and cooks it.
+
+3.
+Memory Address
+To a computer this is like the exact place or part of a shelf (storage device) where a book (data) is kept.
+
+4.
+Memory Partitioning
+To a computer this is like dividing a house (storage unit) into different rooms for different purposes.
+
+5.
+Variables (Memory Variable)
+To a computer it’s like a reusable container (like a plastic container with a lid) that holds an ingredient. The container stays the same, but the food inside it can change.
+
+6.
+Statement
+To a computer it’s like a single complete instruction given to a student like go do your assignment.
+
+7.
+Module
+To a computer it’s like a tool that does one specific task and can be used over an over again e.g. a tape measure measures length and it can only do that over and over again.
+
+8.
+Code
+To a computer it’s like the actual language or words used to tell the computer what to do e.g. Lecturers use English to instruct students on how to hand in their assignments for marking because it’s the language they all understand.
+
+9.
+Block of Code
+To a computer its like an exam given by a lecturer(programmer) in a specific subject and students(computer) are expected to answer accordingly. Eg if an exam is given in English (Programming language e.g. python), students are expected to answer in English as well.
+
+10.
+Data Type
+To a computer its like a title that describes what a story is about.
+
+11.
+Declaring
+To a computer its like telling what something is going to be used for.
+
+12.
+Initializing
+To a computer it’s like putting the very first ingredient into that newly labeled container hence giving it a use according to its label
